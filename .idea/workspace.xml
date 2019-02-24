@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0d51568-0509-4ca6-bad8-84d9b6d045fe" name="Default" comment="" />
+    <list default="true" id="c0d51568-0509-4ca6-bad8-84d9b6d045fe" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/assets/images/universityofpune.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/new_profile.webp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/universityofpune.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/images/new_profile.png" afterPath="$PROJECT_DIR$/assets/images/new_profile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,11 +21,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="175" column="67" lean-forward="false" selection-start-line="175" selection-start-column="67" selection-end-line="175" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -39,6 +56,10 @@
       <find>technical</find>
       <find>coursework</find>
       <find>res</find>
+      <find>new</find>
+      <find>pune</find>
+      <find>_site</find>
+      <find>site</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/_site/assets</dir>
@@ -61,8 +82,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="723" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -94,6 +116,12 @@
               <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
               <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
@@ -150,12 +178,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550980102226</updated>
-      <workItem from="1550980103649" duration="4346000" />
+      <workItem from="1550980103649" duration="7824000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4346000" />
+    <option name="totallyTimeSpent" value="7824000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -260,20 +288,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/new_profile.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/images/universityofpune.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/new_profile.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="86" column="0" lean-forward="true" selection-start-line="86" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="175" column="67" lean-forward="false" selection-start-line="175" selection-start-column="67" selection-end-line="175" selection-end-column="67" />
           <folding />
         </state>
       </provider>
