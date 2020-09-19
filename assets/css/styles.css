@@ -151,6 +151,12 @@ a {
     margin-bottom: 0px;
     font-weight: 600;
 }
+
+.not-bold {
+    color: #428bca;
+    font-weight: normal;
+}
+
 .education-coursework {
     margin-top: 2px;
     padding-top: 0px;
